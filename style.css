@@ -55,6 +55,19 @@ body {
 
 }
 
+footer {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: hsl(220, 15%, 55%);
+}
+
+footer a {
+    color: hsl(219, 52%, 47%);
+    text-decoration: none;
+    font-weight: 700;
+}   
+
 
 
 

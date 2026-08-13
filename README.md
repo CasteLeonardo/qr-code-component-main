@@ -57,5 +57,5 @@ This would give me an opportunity to practice Sass features such as variables, n
 ## Author
 
 - Website - [Leonardo Castellanos Portafolio](https://llanoportafolio.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CasteLeonardo)
+- Frontend Mentor - [@CasteLeonardo](https://www.frontendmentor.io/profile/CasteLeonardo)
 - Github - [@CasteLeonardo](https://github.com/CasteLeonardo)
